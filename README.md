@@ -18,3 +18,7 @@ GET localhost:9200/_cat/indices?v
 
 ###Show details of a mapping in an index 
 GET localhost:9200/index_name/_mapping/mapping_name
+
+
+###Show the details of an index
+GET localhost:9200/index_name/_settings
