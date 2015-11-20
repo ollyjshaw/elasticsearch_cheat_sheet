@@ -22,3 +22,5 @@ GET localhost:9200/index_name/_mapping/mapping_name
 
 ###Show the details of an index
 GET localhost:9200/index_name/_settings
+
+dont'merge
